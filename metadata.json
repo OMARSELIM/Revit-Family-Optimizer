@@ -1,0 +1,5 @@
+{
+  "name": "Revit Family Optimizer",
+  "description": "AI-powered analysis tool for Revit Families to detect over-modeling, estimate complexity, and suggest optimizations for better BIM performance.",
+  "requestFramePermissions": []
+}
